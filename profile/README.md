@@ -1,4 +1,4 @@
-# 🔥 **Afterburner**
+# **Afterburner**
 > 국비교육 수료생을 위한 **스터디** 및 **사이드 프로젝트** 커뮤니티
 
 ## 🔥 **Introduction**
