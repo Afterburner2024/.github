@@ -39,7 +39,7 @@
 
 + dansun2 | 이서현 | [깃허브](https://github.com/dansun2)
 
-+ Kim Hwayeon | 김화연 | [깃허브](https://github.com/KHY90)
++ KHY90 | 김화연 | [깃허브](https://github.com/KHY90)
 
 + wooseungyeop | 우승엽 | [깃허브](https://github.com/wooseungyeop)
 
