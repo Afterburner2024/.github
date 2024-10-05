@@ -1,4 +1,4 @@
-![discord](https://github.com/user-attachments/assets/5065ee26-93eb-430d-8c73-8459d35ee39c)![discord (1)](https://github.com/user-attachments/assets/0ac84fad-5e6e-4be2-aced-19081da5cf2c)# **Afterburner**
+# **Afterburner**
 
 ![React](https://img.shields.io/badge/React-v18.3.1-61DAFB?logo=react&logoColor=white)
 
@@ -12,8 +12,9 @@
 > 이곳에서는 같은 경험을 공유한 개발자들이 모여 서로의 성장을 도모하고, 사이드 프로젝트를 통해 실무 능력을 강화할 수 있습니다.<br>
 > Afterburner는 협업과 지식을 나누는 공간으로, 지속적인 배움과 네트워킹의 기회를 제공합니다.
 
-
-
+<a href="https://discord.gg/SH2p3sfAS">
+  <img src="https://github.com/user-attachments/assets/5065ee26-93eb-430d-8c73-8459d35ee39c" alt="디스코드" width="100"/>
+</a>
 
 ## 🔥 **Table of Contents**
 
