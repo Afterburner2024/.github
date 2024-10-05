@@ -13,7 +13,7 @@
 > Afterburner는 협업과 지식을 나누는 공간으로, 지속적인 배움과 네트워킹의 기회를 제공합니다.
 
 <a href="https://discord.gg/SH2p3sfAS">
-  <img src="https://github.com/user-attachments/assets/5065ee26-93eb-430d-8c73-8459d35ee39c" alt="디스코드" width="100"/>
+  <img src="https://github.com/user-attachments/assets/5b5d83e7-b9a6-4a44-af90-9da4ebdac696" alt="디스코드" width="200"/>
 </a>
 
 ## 🔥 **Table of Contents**
