@@ -18,6 +18,10 @@
   <img src="https://github.com/user-attachments/assets/5b5d83e7-b9a6-4a44-af90-9da4ebdac696" alt="디스코드" width="150"/>
 </a>
 
+<a href="https://github.com/Afterburner2024/.github/wiki">
+  <img src="https://github.com/user-attachments/assets/604039be-498b-4a70-bf7a-71f50a076f92" alt="깃허브위키" width="150"/>
+</a>
+
 ## 🔥 **Table of Contents**
 
 + 미로, 피그마 링크 추가예정
