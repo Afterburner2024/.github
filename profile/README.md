@@ -24,7 +24,13 @@
 
 ## 🔥 **Table of Contents**
 
-+ 미로, 피그마 링크 추가예정
+<a href="https://www.figma.com/design/L3nhz4B7at9VrOLECcdIh9/Afterburner?node-id=20-41&t=pqPGJCoWXPWXHzXe-1">
+  <img src="https://github.com/user-attachments/assets/8ac80db5-4151-4b9c-ab4d-a331d9dbdd80" alt="피그마링크" width="150"/>
+</a>
+
+<a href="">
+  <img src="https://github.com/user-attachments/assets/f5ce4362-5420-4076-9c6c-87a3de43f1a6" alt="미로링크" width="150"/>
+</a>
 
 ## 🔥 **Feature**
 
