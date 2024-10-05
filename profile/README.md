@@ -24,7 +24,7 @@
 
 ## 🔥 **Table of Contents**
 
-<a href="https://www.figma.com/design/L3nhz4B7at9VrOLECcdIh9/Afterburner?node-id=20-41&t=pqPGJCoWXPWXHzXe-1">
+<a href="https://www.figma.com/design/L3nhz4B7at9VrOLECcdIh9/Afterburner?node-id=0-1&t=pqPGJCoWXPWXHzXe-1">
   <img src="https://github.com/user-attachments/assets/8ac80db5-4151-4b9c-ab4d-a331d9dbdd80" alt="피그마링크" width="150"/>
 </a>
 &nbsp;
