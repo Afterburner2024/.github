@@ -12,6 +12,8 @@
 > 이곳에서는 같은 경험을 공유한 개발자들이 모여 서로의 성장을 도모하고, 사이드 프로젝트를 통해 실무 능력을 강화할 수 있습니다.<br>
 > Afterburner는 협업과 지식을 나누는 공간으로, 지속적인 배움과 네트워킹의 기회를 제공합니다.
 
+<br>
+
 <a href="https://discord.gg/SH2p3sfASc">
   <img src="https://github.com/user-attachments/assets/5b5d83e7-b9a6-4a44-af90-9da4ebdac696" alt="디스코드" width="150"/>
 </a>
