@@ -15,11 +15,11 @@
 <br>
 
 <a href="https://discord.gg/SH2p3sfASc">
-  <img src="https://github.com/user-attachments/assets/5b5d83e7-b9a6-4a44-af90-9da4ebdac696" alt="디스코드" width="150"/>
+  <img src="https://github.com/user-attachments/assets/8d9c725a-9a4e-4c58-9cf0-92dd54e3d86d" alt="디스코드" width="150"/>
 </a>
 
 <a href="https://github.com/Afterburner2024/.github/wiki">
-  <img src="https://github.com/user-attachments/assets/604039be-498b-4a70-bf7a-71f50a076f92" alt="깃허브위키" width="150"/>
+  <img src="https://github.com/user-attachments/assets/6449fd2b-a77e-4879-a774-d5469034b5ea" alt="깃허브위키" width="150"/>
 </a>
 
 ## 🔥 **Table of Contents**
