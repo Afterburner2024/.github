@@ -28,7 +28,7 @@
   <img src="https://github.com/user-attachments/assets/8ac80db5-4151-4b9c-ab4d-a331d9dbdd80" alt="피그마링크" width="150"/>
 </a>
 &nbsp;
-<a href="">
+<a href="https://miro.com/welcomeonboard/TGlYS3o1YzRmT2NLdnNBc1o3RTdwWVV6bmNYaUlMZkZrSTNteW1XRWVPRDkxV0RxZXU1TzhxS055OHVEcW1BaHwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=969102094876">
   <img src="https://github.com/user-attachments/assets/f5ce4362-5420-4076-9c6c-87a3de43f1a6" alt="미로링크" width="150"/>
 </a>
 
