@@ -64,7 +64,7 @@
 
 ## 🔥 Architecture
 
-![인프라아키텍처](https://github.com/user-attachments/assets/a55ab21e-106b-4046-bea7-298176b64a3d)
+![인프라아키텍처](https://github.com/user-attachments/assets/68837ee9-11ef-4177-926e-937c6ebad74d)
 
 ## 🔥 Stack
 
