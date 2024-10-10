@@ -31,6 +31,11 @@
 <a href="https://miro.com/welcomeonboard/TGlYS3o1YzRmT2NLdnNBc1o3RTdwWVV6bmNYaUlMZkZrSTNteW1XRWVPRDkxV0RxZXU1TzhxS055OHVEcW1BaHwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=969102094876">
   <img src="https://github.com/user-attachments/assets/f5ce4362-5420-4076-9c6c-87a3de43f1a6" alt="미로링크" width="150"/>
 </a>
+&nbsp;
+<a href="https://www.notion.so/Afterburner-HQ-11bc18d2895180d3b6dae205c0d0d44f?pvs=4">
+  <img src="https://github.com/user-attachments/assets/801d139a-aff4-4120-8f35-970b785f557e" alt="노션링크" width="150"/>
+</a>
+
 
 ## 🔥 **Feature**
 
