@@ -64,6 +64,8 @@
 
 ## 🔥 Architecture
 
+![인프라아키텍처](https://github.com/user-attachments/assets/a55ab21e-106b-4046-bea7-298176b64a3d)
+
 ## 🔥 Stack
 
 ## 🔥 Browser Support
