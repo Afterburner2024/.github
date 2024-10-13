@@ -33,7 +33,7 @@
 </a>
 &nbsp;
 <a href="https://www.notion.so/Afterburner-HQ-11bc18d2895180d3b6dae205c0d0d44f?pvs=4">
-  <img src="https://www.notion.so/Afterburner-HQ-11bc18d2895180d3b6dae205c0d0d44f?pvs=4" alt="노션링크" width="150"/>
+  <img src="https://github.com/user-attachments/assets/801d139a-aff4-4120-8f35-970b785f557e" alt="노션링크" width="150"/>
 </a>
 
 
