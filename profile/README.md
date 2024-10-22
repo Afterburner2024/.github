@@ -1,4 +1,4 @@
-# **Afterburner**
+<img src="https://github.com/user-attachments/assets/a1ed491e-a6f8-4c6c-8ef4-0d2cd6c495da" alt="Afterburner-Logo" width="245" height="auto"><br>
 
 ![React](https://img.shields.io/badge/React-v18.3.1-61DAFB?logo=react&logoColor=white)
 
