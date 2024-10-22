@@ -1,6 +1,8 @@
 <img src="https://github.com/user-attachments/assets/a1ed491e-a6f8-4c6c-8ef4-0d2cd6c495da" alt="Afterburner-Logo" width="245" height="auto"><br>
 
 ![React](https://img.shields.io/badge/React-v18.3.1-61DAFB?logo=react&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-v3.3.4-6DB33F?logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-v3.10.0-02569B?logo=flutter&logoColor=white)
 
 > 국비교육 수료생을 위한 **스터디** 및 **사이드 프로젝트** 커뮤니티
 
