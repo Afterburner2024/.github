@@ -8,8 +8,6 @@
 
 ## 🔥 **Introduction**
 
-<img src="https://github.com/user-attachments/assets/1dd89ce1-9f85-44a4-ad63-5e6192950fad" alt="Afterburner-Logo" width="600" height="auto"><br>
-
 > **Afterburner**는 국비교육을 수료한 개발자들을 위한 스터디 및 사이드 프로젝트 커뮤니티입니다.<br>
 > 이곳에서는 같은 경험을 공유한 개발자들이 모여 서로의 성장을 도모하고, 사이드 프로젝트를 통해 실무 능력을 강화할 수 있습니다.<br>
 > Afterburner는 협업과 지식을 나누는 공간으로, 지속적인 배움과 네트워킹의 기회를 제공합니다.
